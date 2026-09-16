@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\4. proc pivot 4.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\4. proc pivot 4.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\3. create pro pivot 3.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\3. create pro pivot 3.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\2. proc pivot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\2. proc pivot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\1. Proc pivot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\1. Proc pivot.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\6. proc pivot 6.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\6. proc pivot 6.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\5. proc pivto 5.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{6F133EA1-4F48-F6E2-C65B-384011779DD4}|proyecto scrip\\proyecto scrip.ssmssqlproj|solutionrelative:proyecto scrip\\5. proc pivto 5.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3. create pro pivot 3.sql - FUENTES-ELMER.PRATICA1 (sa (77))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\3. create pro pivot 3.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\3. create pro pivot 3.sql",
+              "ToolTip": "3. create pro pivot 3.sql - FUENTES-ELMER.PRATICA1 (sa (77))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:58:57.374Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (77))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2. proc pivot.sql - FUENTES-ELMER.PRATICA1 (sa (53))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\2. proc pivot.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\2. proc pivot.sql",
+              "ToolTip": "2. proc pivot.sql - FUENTES-ELMER.PRATICA1 (sa (53))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:43:03.984Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (53))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1. Proc pivot.sql - FUENTES-ELMER.PRATICA1 (sa (55))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\1. Proc pivot.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\1. Proc pivot.sql",
+              "ToolTip": "1. Proc pivot.sql - FUENTES-ELMER.PRATICA1 (sa (55))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:40:24.539Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (55))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4. proc pivot 4.sql - FUENTES-ELMER.PRATICA1 (sa (52))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\4. proc pivot 4.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\4. proc pivot 4.sql",
+              "ToolTip": "4. proc pivot 4.sql - FUENTES-ELMER.PRATICA1 (sa (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:27:24.141Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (52))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6. proc pivot 6.sql - FUENTES-ELMER.PRATICA1 (sa (51))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\6. proc pivot 6.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\6. proc pivot 6.sql",
+              "ToolTip": "6. proc pivot 6.sql - FUENTES-ELMER.PRATICA1 (sa (51))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:34:59.823Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (51))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5. proc pivto 5.sql - FUENTES-ELMER.PRATICA1 (sa (58))",
+              "DocumentMoniker": "C:\\Users\\Fuentes Elmer\\Downloads\\import\\proyecto scrip\\proyecto scrip\\5. proc pivto 5.sql",
+              "RelativeDocumentMoniker": "proyecto scrip\\5. proc pivto 5.sql",
+              "ToolTip": "5. proc pivto 5.sql - FUENTES-ELMER.PRATICA1 (sa (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-16T04:30:59.943Z",
+              "EditorCaption": " - FUENTES-ELMER.PRATICA1 (sa (58))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
